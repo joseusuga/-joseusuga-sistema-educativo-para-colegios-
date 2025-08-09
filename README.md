@@ -21,3 +21,5 @@ Incluye un formulario responsive de inicio de sesión con HTML, CSS y JavaScript
 
 ![Vista previa del Login](assets/img/captura_login.png)
 
+## la segunda parte:vista previa del fondo
+![Vista previa del Login](assets/img/captura_fondo.png)

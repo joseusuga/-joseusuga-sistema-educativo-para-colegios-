@@ -10,11 +10,10 @@ html,body { height: 100%; }
 /* izquierda (espacio para imagen de fondo) */
 .left-section {
   flex: 1;
-}
-  /*.background-image: url("/assets/img/fondo3.jpg"); /* ruta de la imagen */
-  /*background-size: cover;        /* que cubra todo el área */
-  /*background-position: center;   /* centrada */
-  /*background-repeat: no-repeat;
+  background-image: url("/assets/img/fondo3.jpg"); /* ruta de la imagen */
+  background-size: cover;        /* que cubra todo el área */
+  background-position: center;   /* centrada */
+  background-repeat: no-repeat;
 }
 
 /* responsive: ocultamos la imagen en pantallas pequeñas */
