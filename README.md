@@ -35,4 +35,4 @@ El diseño es limpio, accesible y funcional en cualquier dispositivo.
 ![Vista previa del Login](assets/img/captura_datosdel_sistema.png)
 
 ## Resultado:
-La página cumple con los requerimientos de mostrar información institucional y funcionalidades principales en el 50% izquierdo, y es completamente responsive para dispositivos móviles.
+La página cumple con los requerimientos de mostrar información institucional y funcionalidades principales en el 50% izquierdo, y es completamente responsive para dispositivos móviles...
