@@ -21,3 +21,18 @@ Incluye un formulario responsive de inicio de sesión con HTML, CSS y JavaScript
 
 ![Vista previa del Login](assets/img/captura_login.png)
 
+## Footer
+El footer se muestra centrado, con color gris claro y fondo suave.
+Los enlaces en el footer tienen color azul y subrayado.
+
+## Accesibilidad y Usabilidad
+Los campos de usuario y contraseña tienen iconos y placeholders.
+El botón para mostrar/ocultar contraseña cambia el ícono según el estado.
+El diseño es limpio, accesible y funcional en cualquier dispositivo.
+
+## Vista previa del datos del sistema
+
+![Vista previa del Login](assets/img/captura_datosdel_sistema.png)
+
+## Resultado:
+La página cumple con los requerimientos de mostrar información institucional y funcionalidades principales en el 50% izquierdo, y es completamente responsive para dispositivos móviles.
